@@ -1,4 +1,4 @@
-# Descriptive-Analysis-of-Multidimensional-Poverty
+# Descriptive-Analysis-of-Unidimensional-Poverty
 Analysis of a detailed dataset provided by the Colombian National Administrative Department of Statistics, focusing on 208 poverty dimensions to categorize the population and compute poverty indices.
 
 This repository hosts the code and resources for the "Descriptive Analysis of Multidimensional Poverty" project. The analysis is based on a comprehensive database provided by the Colombian National Administrative Department of Statistics, encompassing 208 dimensions of poverty. The project's main goal is to categorize and differentiate the population using specific criteria to calculate poverty indices. Key features include the implementation of the union criterion for demographic segmentation and the computation of the poverty line using the formula: "Poverty Line = (Median of the Inglabo column) / 2". This repository includes data explorations, statistical methods, and visualizations that help in understanding the complexities of multidimensional poverty.
